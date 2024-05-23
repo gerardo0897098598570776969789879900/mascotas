@@ -1,0 +1,62 @@
+jerry
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Las Mascotas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Las Mascotas</h1>
+        <nav>
+            <ul>
+                <li><a href="#tipos">Tipos de Mascotas</a></li>
+                <li><a href="#beneficios">Beneficios</a></li>
+                <li><a href="#cuidado">Cuidado</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="tipos">
+            <h2>Tipos de Mascotas</h2>
+            <p>Las mascotas pueden ser de muchos tipos, incluyendo perros, gatos, aves, peces, y más. Cada tipo de mascota tiene sus propias características y necesidades.</p>
+            <ul>
+                <li><strong>Perros:</strong> Conocidos por su lealtad y compañía.</li>
+                <li><strong>Gatos:</strong> Independientes y cariñosos.</li>
+                <li><strong>Aves:</strong> Coloridas y cantoras.</li>
+                <li><strong>Peces:</strong> Tranquilos y decorativos.</li>
+            </ul>
+        </section>
+
+        <section id="beneficios">
+            <h2>Beneficios de Tener Mascotas</h2>
+            <p>Tener una mascota puede ofrecer muchos beneficios, como compañía, ejercicio y reducir el estrés.</p>
+            <ul>
+                <li>Mejoran la salud mental.</li>
+                <li>Fomentan la actividad física.</li>
+                <li>Ayudan a desarrollar responsabilidades en los niños.</li>
+            </ul>
+        </section>
+
+        <section id="cuidado">
+            <h2>Cuidado de las Mascotas</h2>
+            <p>Cada tipo de mascota requiere diferentes cuidados, como alimentación, higiene y ejercicio.</p>
+            <ul>
+                <li><strong>Perros:</strong> Paseos diarios, alimentación balanceada y visitas al veterinario.</li>
+                <li><strong>Gatos:</strong> Alimentación específica, limpieza de la caja de arena y juego.</li>
+                <li><strong>Aves:</strong> Jaula limpia, alimentación adecuada y socialización.</li>
+                <li><strong>Peces:</strong> Agua limpia, alimentación controlada y ambiente adecuado.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer id="contacto">
+        <h2>Contacto</h2>
+        <p>Para más información, puedes contactarnos en <a href="mailto:info@mascotas.com">info@mascotas.com</a>.</p>
+    </footer>
+</body>
+</html>
